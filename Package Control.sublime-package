@@ -2,8 +2,10 @@
 	"bootstrapped": true,
 	"channels":
 	[
-		"https://erhan.in/channel_v3.json",
+		// If you are not in China, put the second line to first
 		"http://cst.stu.126.net/u/json/cms/channel_v3.json",
+		"https://erhan.in/channel_v3.json",
+		
 		
 	],
 	"in_process_packages":
