@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"channels":
+	[
+		"https://erhan.in/channel_v3.json",
+		"http://cst.stu.126.net/u/json/cms/channel_v3.json",
+		
+	],
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Package Control"
+	],
+	// "http_proxy": "//127.0.0.1:1080", // This is my shadowsocks proxy
+  
+}
